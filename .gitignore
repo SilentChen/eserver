@@ -9,3 +9,4 @@ ebin_protobuf/*
 ebin_server/*
 ebin_templates/*
 logs/*
+config/server.config
