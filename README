@@ -1,0 +1,6 @@
+issues:
+1 if the script/linux/script_opt.sh cannot run in linux env, you should vim then input " set ff? " see the fileformat, if is dos, you should chang into unix with this cmd: set ff=unix.
+
+2 donot forget to change the config/server.config's mysql cfg. 
+
+

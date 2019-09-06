@@ -1,0 +1,12 @@
+{
+     application,server,
+     [
+       {description,"server"},
+       {vsn,"0.1"},
+       {modules,[server,server_app,server_deps,server_sup,server_web]},
+       {registered,[]},
+       {mod,{server_app,[]}},
+       {env,[]},
+       {applications,[kernel,stdlib,crypto]}
+     ]
+}.

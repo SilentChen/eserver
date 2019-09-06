@@ -1,0 +1,11 @@
+.idea
+.DS_Store
+*.iml
+ebin/*
+ebin_erlydtl/*
+ebin_mochi/*
+ebin_mysql/*
+ebin_protobuf/*
+ebin_server/*
+ebin_templates/*
+logs/*
